@@ -1,1 +1,2 @@
-FinalizedIOTProjectCodebase - https://github.com/AlvinAungko/iOTProjectFinalized.git
+iOSCodeBase: https://github.com/AlvinAungko/FoodDetectIOS.git
+ArduinoCodeBase: 
